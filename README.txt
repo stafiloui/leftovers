@@ -1,0 +1,1 @@
+Αυτό το zip είναι ενδεικτικό. Για κανονικό React deploy σε Vercel, χρησιμοποίησε Create React App ή Vite και βάλε τον κώδικα μέσα στο App.jsx.
